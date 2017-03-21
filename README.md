@@ -19,7 +19,7 @@ The Wearable application also notify when the watch is paired with the device. *
 **Important**
 >To create Wearable app wearable module needs to have min SDK [21](https://www.android.com/versions/lollipop-5-0/)
 
-###Wearable Configuration:
+### Wearable Configuration:
 
 **Steps 1:** Installed Android Wear application from Google play store on both devices phone & wear emulator. Below is the Link https://play.google.com/store/apps/details?id=com.google.android.wearable.app&hl=en
 
