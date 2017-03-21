@@ -6,11 +6,12 @@ The application is basically based on a geofence detection.
 In this Application you can add a location based task so whenever you add a task based on location you will be notify when you entered into your desired location with the message **"Task need to be completed"** and  the list of tasks will be shown which you were added, also when you exit from that location you will be notify too that your task has been completed. Location detect with the Fused API after every 15sec new location will be feteched and Geofence class will check whether the current location is the desired location or not.
 
 **Features:**
-1). Geofence location based tasks.
-2). Support of wearable.
-3). Google autocomplete places.
-4). Location is showing on google maps.
-5). Tasks handled locally via Realm Database.
+
+ - Geofence location based tasks.
+ - Support of wearable.
+ - Google autocomplete places.
+ - Location is showing on google maps.
+ - Tasks handled locally via Realm Database.
 
 **Wearable Feature:**
 The Wearable application also notify when the watch is paired with the device. **"watch module"** added in the project.
@@ -42,6 +43,3 @@ minSdkVersion 21.
 **Step 9:** Tap Accounts and select a Google Account, and follow the steps in the wizard to sync the account with the emulator. If necessary, type the screen-lock device password, and Google Account password, to start the account sync.
 
 **Step 10:** That’s it now you paired your device with android wear emulator.
-
-
-
