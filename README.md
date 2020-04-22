@@ -21,9 +21,9 @@ The Wearable application also notify when the watch is paired with the device. *
 
 ### Wearable Configuration:
 
-**Steps 1:** Installed Android Wear application from Google play store on both devices phone & wear emulator. Below is the Link https://play.google.com/store/apps/details?id=com.google.android.wearable.app&hl=en
+**Step 1:** Installed Android Wear application from Google play store on both devices phone & wear emulator. Below is the Link https://play.google.com/store/apps/details?id=com.google.android.wearable.app&hl=en
 
-**Steps 2:** Go to wear emulator Settings -> System -> About -> Tab the build number 7 times to enable the developer option.
+**Step 2:** Go to wear emulator Settings -> System -> About -> Tab the build number 7 times to enable the developer option.
 
 **Step 3:** Then go to wear emulator Developer Option and checked “ADB Debugging” and “Debug over Bluetooth”.
 
